@@ -1,9 +1,0 @@
-{
-  "generator-reveal": {
-    "presentationTitle": "Hack Academy: HTTP and Protocols",
-    "packageVersion": "0.0.0",
-    "revealTheme": "black",
-    "useSass": false,
-    "deployToGithubPages": false
-  }
-}
