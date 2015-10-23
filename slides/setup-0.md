@@ -2,18 +2,18 @@
 
 **Should take you less than 5 mins to get up and running.**
 
-* Clone (GitHub Source)[https://github.com/LeaVerou/dabblet] 
+* Clone [GitHub Source](https://github.com/LeaVerou/dabblet) 
 
 * Change to the directory where the clone has been created e.g.
     `cd cd /Users/dahukanna/static-harp/dabblet/` 
 
-* Start the webserver e.g. for starting the Harp server on port 9000 
+* Start the webserver e.g. for starting the Harp server on port 8080 
     
-    `$ harp server --port 9000` 
+    `$ harp server --port 8080` 
     `
     ------------ 
     Harp v0.14.0 – Chloi Inc. 2012–2014 
-    Your server is listening at http://localhost:9000/ 
+    Your server is listening at http://localhost:8080/ 
     Press Ctl+C to stop the server 
     ------------    
 
