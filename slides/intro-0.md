@@ -5,7 +5,7 @@ Developed By [Lea Verou](http://lea.verou.me/), [Site](http://dabblet.com/), [Gi
 ### What is Dabblet?
 Was watching [Lea Verou](http://lea.verou.me/) - [CSS Conf EU 2015| The missing Slice](https://www.youtube.com/watch?v=eVnUDTtOLE0) and I wondered what tool she was using to be able to edit CSS code and show the results instantly.
 
-Doing some unrelated GitHub foraging, I came across **Dabblet** an open-source interactive CSS playground.
+Doing some unrelated GitHub foraging, I came across **Dabblet**, her 0pen-source interactive CSS playground.
 
 You know I've got to try it out.
 
