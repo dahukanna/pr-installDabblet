@@ -5,7 +5,7 @@
 * Clone [GitHub Source](https://github.com/LeaVerou/dabblet) 
 
 * Change to the directory where the clone has been created e.g.
-    `cd cd /Users/dahukanna/static-harp/dabblet/` 
+    `cd /Users/dahukanna/static-harp/dabblet/` 
 
 * Start the webserver e.g. for starting the Harp server on port 8080 
     
